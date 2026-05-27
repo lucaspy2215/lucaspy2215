@@ -42,13 +42,30 @@ Graduando em ADS pela **Uninassau-Campina Grande**. Tenho forte interesse em bac
 
 ---
 
-## 📊 Estatísticas
+## 📊 Linguagens
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspy2215&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspy2215&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+<svg width="480" height="160" viewBox="0 0 480 160" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Ubuntu, Sans-Serif">
+  <rect width="480" height="160" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="28" fill="#e6edf3" font-size="14" font-weight="600">Linguagens mais usadas</text>
+  <rect x="20" y="44" width="440" height="12" rx="6" fill="#30363d"/>
+  <rect x="20" y="44" width="294" height="12" rx="6" fill="#3572A5"/>
+  <rect x="314" y="44" width="74" height="12" rx="3" fill="#b07219"/>
+  <rect x="388" y="44" width="72" height="12" rx="3" fill="#2b7489"/>
+  <circle cx="30" cy="84" r="6" fill="#3572A5"/>
+  <text x="42" y="89" fill="#e6edf3" font-size="13">Python</text>
+  <text x="110" y="89" fill="#8b949e" font-size="13">66.7%</text>
+  <circle cx="180" cy="84" r="6" fill="#b07219"/>
+  <text x="192" y="89" fill="#e6edf3" font-size="13">Java</text>
+  <text x="230" y="89" fill="#8b949e" font-size="13">16.7%</text>
+  <circle cx="310" cy="84" r="6" fill="#2b7489"/>
+  <text x="322" y="89" fill="#e6edf3" font-size="13">TypeScript</text>
+  <text x="410" y="89" fill="#8b949e" font-size="13">16.6%</text>
+  <line x1="20" y1="108" x2="460" y2="108" stroke="#30363d" stroke-width="0.5"/>
+  <text x="20" y="130" fill="#8b949e" font-size="12">6 repositórios públicos</text>
+  <text x="20" y="148" fill="#8b949e" font-size="12">Back-end · Banco de Dados · Análise de Dados</text>
+</svg>
 
 </div>
 
