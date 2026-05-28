@@ -15,14 +15,14 @@ Graduando em ADS pela **Uninassau-Campina Grande**. Tenho forte interesse em bac
 
 **Back-end & Banco de Dados**
 
-![Java](https://img.shields.io/badge/Java-Avançado-b07219?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Avançado-3572A5?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Avançado-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Médio-b07219?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Médio-3572A5?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Básico-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Front-end**
 
-![HTML](https://img.shields.io/badge/HTML-Avançado-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Avançado-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Intermediário-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Intermediário-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediário-2b7489?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-Intermediário-61DAFB?style=flat-square&logo=react&logoColor=black)
