@@ -47,48 +47,7 @@ Graduando em ADS pela **Uninassau-Campina Grande**. Tenho forte interesse em bac
 
 <div align="center">
 
-<svg width="480" height="178" viewBox="0 0 480 178" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Ubuntu, Sans-Serif">
-  <rect width="480" height="178" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="20" y="28" fill="#e6edf3" font-size="14" font-weight="600">Linguagens mais usadas</text>
-  <!-- Bar total width 440px, starts x=20 -->
-  <!-- C# 28.72% = 126px -->
-  <!-- HTML 22.60% = 99px -->
-  <!-- JavaScript 22.32% = 98px -->
-  <!-- CSS 16.34% = 72px -->
-  <!-- Handlebars 6.75% = 30px -->
-  <!-- Java 3.27% = 14px -->
-  <rect x="20"   y="44" width="440" height="12" rx="6" fill="#30363d"/>
-  <rect x="20"   y="44" width="126" height="12" rx="6" fill="#178600"/>
-  <rect x="146"  y="44" width="99"  height="12" rx="0" fill="#e34c26"/>
-  <rect x="245"  y="44" width="98"  height="12" rx="0" fill="#f1e05a"/>
-  <rect x="343"  y="44" width="72"  height="12" rx="0" fill="#563d7c"/>
-  <rect x="415"  y="44" width="30"  height="12" rx="0" fill="#f7931e"/>
-  <rect x="445"  y="44" width="15"  height="12" rx="3" fill="#b07219"/>
-  <!-- Legend col 1 -->
-  <circle cx="30"  cy="78" r="5" fill="#178600"/>
-  <text   x="42"  y="83" fill="#e6edf3" font-size="12">C#</text>
-  <text   x="70"  y="83" fill="#8b949e" font-size="12">28.72%</text>
-  <circle cx="30"  cy="100" r="5" fill="#e34c26"/>
-  <text   x="42"  y="105" fill="#e6edf3" font-size="12">HTML</text>
-  <text   x="88"  y="105" fill="#8b949e" font-size="12">22.60%</text>
-  <circle cx="30"  cy="122" r="5" fill="#f1e05a"/>
-  <text   x="42"  y="127" fill="#e6edf3" font-size="12">JavaScript</text>
-  <text   x="118" y="127" fill="#8b949e" font-size="12">22.32%</text>
-  <!-- Legend col 2 -->
-  <circle cx="250" cy="78" r="5" fill="#563d7c"/>
-  <text   x="262" y="83" fill="#e6edf3" font-size="12">CSS</text>
-  <text   x="290" y="83" fill="#8b949e" font-size="12">16.34%</text>
-  <circle cx="250" cy="100" r="5" fill="#f7931e"/>
-  <text   x="262" y="105" fill="#e6edf3" font-size="12">Handlebars</text>
-  <text   x="350" y="105" fill="#8b949e" font-size="12">6.75%</text>
-  <circle cx="250" cy="122" r="5" fill="#b07219"/>
-  <text   x="262" y="127" fill="#e6edf3" font-size="12">Java</text>
-  <text   x="295" y="127" fill="#8b949e" font-size="12">3.27%</text>
-  <!-- Footer -->
-  <line x1="20" y1="142" x2="460" y2="142" stroke="#30363d" stroke-width="0.5"/>
-  <text x="20" y="160" fill="#8b949e" font-size="12">7 repositórios públicos</text>
-  <text x="20" y="174" fill="#8b949e" font-size="11">Back-end · Full Stack · Análise de Dados</text>
-</svg>
+![Linguagens](./langs.svg)
 
 </div>
 
