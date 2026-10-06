@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Graduando em ADS pela **Uninassau-Campina Grande**. Tenho forte interesse em back-end, banco de dados e automação de dados com Python e Java. Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe.
+Graduando em ADS pela **Uninassau-Campina Grande**. Tenho forte interesse em front-end, banco de dados e automação de dados com TypeScript, JavaScript e Python. Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe.
 
 ---
 
