@@ -1,9 +1,11 @@
 # Lucas Rocha
 
-**Desenvolvedor em formação** · Análise e Desenvolvimento de Sistemas
-📍 Campina Grande, PB — Brasil
+**Desenvolvedor Web · JavaScript · TypeScript · React · Next.js**
+Estudante de Análise e Desenvolvimento de Sistemas · 📍 Campina Grande, PB — Brasil
 
-Graduando em ADS pela **Uninassau**, com foco em desenvolvimento web, banco de dados e automação de dados. Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe.
+🎯 **Em busca de estágio ou vaga júnior em desenvolvimento de software**
+
+Graduando em ADS pela **Uninassau**, desenvolvo aplicações **Full Stack** com **JavaScript/TypeScript**, **React** e **Next.js**, além de **APIs** e bancos de dados **MySQL**. Tenho experiência com **POO**, **CRUD** e análise de dados com Python, e uso **Git e GitHub** no dia a dia. Quero aplicar meus conhecimentos em projetos reais e crescer junto com a equipe.
 
 ---
 
@@ -24,6 +26,11 @@ Graduando em ADS pela **Uninassau**, com foco em desenvolvimento web, banco de d
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 **Banco de dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -34,13 +41,9 @@ Graduando em ADS pela **Uninassau**, com foco em desenvolvimento web, banco de d
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Sistema-Full-Stack](https://github.com/lucaspy2215/Sistema-Full-Stack) | Primeiro sistema Full Stack | Java · Next.js · React |
-| [Agendamento Médico Mobile](https://github.com/lucaspy2215/Sistema_Projeto_Portifolio_Faculdade_parte_Final) | Agendamento de consultas médicas para mobile | TypeScript |
 | [SistemaCRUD](https://github.com/lucaspy2215/SistemaCRUD) | CRUD com banco de dados e POO | Java |
-| [SistemaCRUDPython](https://github.com/lucaspy2215/SistemaCRUDPython) | CRUD de registros com Python e MySQL | Python · MySQL |
 | [ApiChuva São João](https://github.com/lucaspy2215/ApiChuvaS-oJo-o) | API com dados de chuva dos últimos 10 anos em Campina Grande | Python |
 | [Análise IPCA](https://github.com/lucaspy2215/analise-ipca-python) | Análise de dados econômicos do IPCA | Python |
-| [Portfólio Faculdade](https://github.com/lucaspy2215/Sistema_Projeto_Portifolio_Faculdade_parte_I) | Projeto integrador da faculdade — Parte I | TypeScript |
 
 ---
 
@@ -56,7 +59,7 @@ Graduando em ADS pela **Uninassau**, com foco em desenvolvimento web, banco de d
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas** — Uninassau, Campina Grande/PB · Previsão: 06/2027
+**Análise e Desenvolvimento de Sistemas** — Uninassau, Campina Grande/PB · Previsão: 12/2027
 **Idiomas:** Inglês (intermediário)
 
 ---
