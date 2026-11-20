@@ -56,7 +56,7 @@ Graduando em ADS pela **Uninassau**, com foco em desenvolvimento web, banco de d
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas** — Uninassau, Campina Grande/PB · Previsão: 12/2027
+**Análise e Desenvolvimento de Sistemas** — Uninassau, Campina Grande/PB · Previsão: 06/2027
 **Idiomas:** Inglês (intermediário)
 
 ---
